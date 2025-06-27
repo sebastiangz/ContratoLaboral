@@ -187,5 +187,5 @@ Para mantener el programa actualizado:
 
 **Versión:** 1.0  
 **Fecha:** Junio 2025  
-**Desarrollado por:** Infraestructura GIS  
+**Contacto:** druiz@infraestructuragis.com  
 **Sitio web:** www.infraestructuragis.com
