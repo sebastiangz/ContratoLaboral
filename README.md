@@ -1,7 +1,7 @@
 # Generador de Contratos Laborales v2.0 - México
 
 ## 📋 Descripción
-Programa desarrollado en Python para generar contratos laborales con base en la normatividad vigente. Permite crear diferentes tipos de contratos, exportarlos a Word con marca de agua personalizable y proporciona sugerencias automáticas según el tipo de contrato seleccionado.
+Programa desarrollado con metología agíl por druiz@infraestructuragis.com para generar contratos laborales con base en la normatividad vigente. Permite crear diferentes tipos de contratos, exportarlos a Word con marca de agua personalizable y proporciona sugerencias automáticas según el tipo de contrato seleccionado.
 
 ## 🚀 Características Principales
 
