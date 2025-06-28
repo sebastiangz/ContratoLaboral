@@ -1,4 +1,4 @@
-# 🏢 Generador de Contratos Laborales Profesional v1.0
+# 🏢 Generador de Contratos Laborales Profesional v2.1
 
 ## 💼 La Solución Integral para la Gestión de Contratos Laborales en México
 
@@ -78,7 +78,7 @@ Revisa y genera tu contrato:
 | **⚡ Eventual/Ocasional** | Picos de trabajo | Máx. 3 meses/año | Necesidades puntuales |
 | **🌿 De Temporada** | Turismo, agricultura | Estacional | Actividades cíclicas |
 
-![Tipos de Contratos](screenshots/tipos_contratos.png)
+![Tipos de Contratos](_screenshots/tiposdecontrato.png)
 
 ---
 
@@ -132,13 +132,13 @@ Recibe orientación experta automáticamente:
 
 ```bash
 # Paso 1: Clonar el repositorio
-git clone https://github.com/InfraestructuraGIS/generador-contratos.git
+git clone https://github.com/sebastiangz/ContratoLaboral.git
 
 # Paso 2: Instalar dependencias
 pip install -r requirements.txt
 
 # Paso 3: Ejecutar aplicación
-python generador_contratos.py
+generador_contratos
 ```
 
 ### 💻 **Requisitos Mínimos**
@@ -249,7 +249,7 @@ python generador_contratos.py
 
 ---
 
-## 📈 ROI y Beneficios Cuantificables
+## 📈 Retrono de Inversión y Beneficios Cuantificables
 
 ### 💰 **Cálculo de Retorno de Inversión**
 
