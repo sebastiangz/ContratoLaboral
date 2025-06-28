@@ -2,8 +2,6 @@
 
 ## 💼 La Solución Integral para la Gestión de Contratos Laborales en México
 
-![Banner Principal](_screenshots/captura1.JPG)
-
 **Transforma la creación de contratos laborales de un proceso tedioso y propenso a errores en una experiencia rápida, profesional y legalmente sólida.** 
 
 Programa desarrollado con metología agíl por druiz@infraestructuragis.com para generar contratos laborales con base en la normatividad vigente. Permite crear diferentes tipos de contratos, exportarlos a Word con marca de agua personalizable y proporciona sugerencias automáticas según el tipo de contrato seleccionado.
@@ -32,7 +30,7 @@ Programa desarrollado con metología agíl por druiz@infraestructuragis.com para
 ## 🖥️ Interfaz Intuitiva y Profesional
 
 ### 📋 **Pantalla Principal - Información General**
-![Pantalla General](screenshots/pantalla_general.png)
+![Pantalla General](_screenshots/captura1.JPG)
 
 La interfaz principal te guía paso a paso para completar toda la información necesaria:
 - **Selección inteligente** del tipo de contrato
@@ -40,7 +38,7 @@ La interfaz principal te guía paso a paso para completar toda la información n
 - **Sugerencias en tiempo real** basadas en mejores prácticas
 
 ### ⏰ **Configuración de Condiciones Laborales**
-![Condiciones Laborales](screenshots/condiciones_laborales.png)
+![Condiciones Laborales](_screenshots/captura2.JPG)
 
 Define fácilmente:
 - Horarios y jornadas de trabajo
@@ -49,7 +47,7 @@ Define fácilmente:
 - Fechas con validación inteligente
 
 ### 💸 **Gestión de Aspectos Económicos**
-![Aspectos Económicos](screenshots/aspectos_economicos.png)
+![Aspectos Económicos](_screenshots/captura3.JPG)
 
 Configura salarios y prestaciones:
 - Cálculo automático de prestaciones de ley
@@ -58,7 +56,7 @@ Configura salarios y prestaciones:
 - Prestaciones adicionales personalizables
 
 ### 📄 **Vista Previa y Generación Final**
-![Vista Previa](screenshots/vista_previa.png)
+![Vista Previa](_screenshots/captura4.JPG)
 
 Revisa y genera tu contrato:
 - **Vista previa completa** antes de generar
