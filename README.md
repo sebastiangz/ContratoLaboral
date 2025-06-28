@@ -2,9 +2,11 @@
 
 ## 💼 La Solución Integral para la Gestión de Contratos Laborales en México
 
-![Banner Principal](screenshots/banner_principal.png)
+![Banner Principal](_screenshots/captura1.JPG)
 
-**Transforma la creación de contratos laborales de un proceso tedioso y propenso a errores en una experiencia rápida, profesional y legalmente sólida.**
+**Transforma la creación de contratos laborales de un proceso tedioso y propenso a errores en una experiencia rápida, profesional y legalmente sólida.** 
+
+Programa desarrollado con metología agíl por druiz@infraestructuragis.com para generar contratos laborales con base en la normatividad vigente. Permite crear diferentes tipos de contratos, exportarlos a Word con marca de agua personalizable y proporciona sugerencias automáticas según el tipo de contrato seleccionado.
 
 ---
 
