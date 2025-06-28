@@ -90,7 +90,6 @@ Revisa y genera tu contrato:
 - **Validación en tiempo real** de datos ingresados
 
 ### 📊 **Dashboard de Sugerencias**
-![Panel Sugerencias](screenshots/panel_sugerencias.png)
 
 Recibe orientación experta automáticamente:
 - ✅ Mejores prácticas legales
@@ -99,7 +98,6 @@ Recibe orientación experta automáticamente:
 - ✅ Alertas de cumplimiento
 
 ### 💾 **Gestión Avanzada de Plantillas**
-![Gestión Plantillas](screenshots/gestion_plantillas.png)
 
 - **Guarda y reutiliza** configuraciones frecuentes
 - **Plantillas por departamento** o tipo de puesto
