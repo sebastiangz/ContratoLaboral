@@ -128,7 +128,6 @@ Recibe orientación experta automáticamente:
 
 ### ⚡ **Instalación en 3 Pasos**
 
-![Proceso Instalación](screenshots/instalacion_pasos.png)
 
 ```bash
 # Paso 1: Clonar el repositorio
@@ -153,7 +152,6 @@ generador_contratos
 
 ### 🎯 **Flujo de Trabajo Optimizado**
 
-![Flujo de Trabajo](screenshots/flujo_trabajo.png)
 
 1. **📝 Selección** → Elige el tipo de contrato apropiado
 2. **📋 Información** → Completa los datos del empleador y trabajador
@@ -163,8 +161,6 @@ generador_contratos
 6. **💾 Guardado** → Almacena la configuración para futuros usos
 
 ### 🎨 **Personalización Avanzada**
-
-![Personalización](screenshots/personalizacion.png)
 
 - **Marca de agua personalizada** con logo de tu empresa
 - **Formatos de fecha** adaptables por región
@@ -208,7 +204,6 @@ generador_contratos
 - ✅ Soporte por documentación
 - ✅ Actualizaciones básicas
 
-![Paquetes](screenshots/paquetes_licencias.png)
 
 ---
 
@@ -232,8 +227,6 @@ generador_contratos
 
 ### 🎯 **Soporte Técnico Profesional**
 
-![Soporte](screenshots/soporte_tecnico.png)
-
 | Canal | Empresarial | Profesional | Individual |
 |-------|-------------|-------------|------------|
 | **📧 Email** | 2 horas | 24 horas | 48 horas |
@@ -252,8 +245,6 @@ generador_contratos
 ## 📈 Retrono de Inversión y Beneficios Cuantificables
 
 ### 💰 **Cálculo de Retorno de Inversión**
-
-![ROI Calculator](screenshots/roi_calculator.png)
 
 **Empresa de 100 empleados:**
 - **Contratos anuales:** 50
